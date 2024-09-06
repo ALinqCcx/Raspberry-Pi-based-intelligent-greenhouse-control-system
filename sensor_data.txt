@@ -1,0 +1,475 @@
+Time: 2024-06-13 15:17:05, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:10, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:15, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:20, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:26, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:31, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:36, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 15:17:42, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:17:47, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:17:52, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:17:58, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:18:03, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:18:08, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:18:14, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 15:22:51, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 15:22:56, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 15:23:02, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 15:23:07, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 15:23:12, Temperature: 28.00 C, Humidity: 67.00 %
+Time: 2024-06-13 15:23:18, Temperature: 28.00 C, Humidity: 67.00 %
+Time: 2024-06-13 15:58:01, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:09, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:15, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:20, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:25, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:31, Temperature: 28.00 C, Humidity: 68.00 %
+Time: 2024-06-13 15:58:36, Temperature: 28.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:00:32, Temperature: 27.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:00:37, Temperature: 27.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:00:42, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:00:48, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:00:53, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:00:58, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:03, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:09, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:14, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:19, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:25, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:30, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:35, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:41, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:46, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:51, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:01:57, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:02, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:07, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:12, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:18, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:23, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:28, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:34, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:39, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:44, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:50, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:02:55, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:03:00, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:03:06, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:19, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:24, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:32, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:37, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:43, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:48, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:53, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:04:58, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:05:04, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:05:09, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:05:14, Temperature: 27.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:05:22, Temperature: 27.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:05:28, Temperature: 28.00 C, Humidity: 72.00 %
+Time: 2024-06-13 16:05:33, Temperature: 28.00 C, Humidity: 74.00 %
+Time: 2024-06-13 16:05:38, Temperature: 29.00 C, Humidity: 76.00 %
+Time: 2024-06-13 16:05:43, Temperature: 30.00 C, Humidity: 75.00 %
+Time: 2024-06-13 16:05:49, Temperature: 31.00 C, Humidity: 75.00 %
+Time: 2024-06-13 16:05:54, Temperature: 31.00 C, Humidity: 73.00 %
+Time: 2024-06-13 16:05:59, Temperature: 31.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:06:05, Temperature: 31.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:06:10, Temperature: 31.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:06:15, Temperature: 31.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:06:21, Temperature: 31.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:06:26, Temperature: 31.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:06:31, Temperature: 31.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:06:36, Temperature: 31.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:06:42, Temperature: 31.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:06:47, Temperature: 31.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:06:52, Temperature: 31.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:06:58, Temperature: 31.00 C, Humidity: 60.00 %
+Time: 2024-06-13 16:07:03, Temperature: 31.00 C, Humidity: 60.00 %
+Time: 2024-06-13 16:07:08, Temperature: 31.00 C, Humidity: 60.00 %
+Time: 2024-06-13 16:07:14, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:19, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:24, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:30, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:35, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:40, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:46, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:51, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:07:56, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:01, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:07, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:12, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:17, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:23, Temperature: 30.00 C, Humidity: 59.00 %
+Time: 2024-06-13 16:08:28, Temperature: 29.00 C, Humidity: 60.00 %
+Time: 2024-06-13 16:08:33, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:08:39, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:08:44, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:08:49, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:08:55, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:00, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:05, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:10, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:16, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:21, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:26, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:32, Temperature: 29.00 C, Humidity: 61.00 %
+Time: 2024-06-13 16:09:37, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:09:42, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:09:48, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:09:53, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:09:58, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:03, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:09, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:14, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:19, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:25, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:30, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:35, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:41, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:46, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:54, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:10:59, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:04, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:10, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:15, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:20, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:26, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:31, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:36, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:42, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:47, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:11:57, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:12:03, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:12:08, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:12:13, Temperature: 29.00 C, Humidity: 62.00 %
+Time: 2024-06-13 16:12:18, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:24, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:29, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:34, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:42, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:48, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:53, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:12:58, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:03, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:09, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:14, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:19, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:25, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:30, Temperature: 29.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:35, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:41, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:46, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:51, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:13:56, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:02, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:07, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:12, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:18, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:23, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:28, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:34, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:39, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:47, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:52, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:14:57, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:03, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:08, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:13, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:19, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:24, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:29, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:35, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:40, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:45, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:50, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:15:56, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:01, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:09, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:17, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:22, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:27, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:33, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:38, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:43, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:49, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:54, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:16:59, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:04, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:10, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:15, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:23, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:28, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:34, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:39, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:44, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:49, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:17:55, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:00, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:05, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:11, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:16, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:21, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:27, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:32, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:37, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:43, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:48, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:18:58, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:04, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:09, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:17, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:22, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:27, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:33, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:38, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:46, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:51, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:19:56, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:02, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:07, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:12, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:18, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:23, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:28, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:34, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:39, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:44, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:49, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:20:55, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:00, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:05, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:11, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:16, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:21, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:27, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:21:32, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:37, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:43, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:21:48, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:21:53, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:21:58, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:04, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:12, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:17, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:27, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:33, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:38, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:22:43, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:22:48, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:22:54, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:22:59, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:04, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:10, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:15, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:20, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:26, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:23:31, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:36, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:42, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:47, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:52, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:23:57, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:03, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:08, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:13, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:19, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:24, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:29, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:35, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:40, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:48, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:53, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:24:58, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:25:04, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:25:09, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:25:26, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:25:32, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:25:37, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:25:42, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:26:01, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:06, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:11, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:17, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:22, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:27, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:33, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:38, Temperature: 28.00 C, Humidity: 63.00 %
+Time: 2024-06-13 16:26:43, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:26:48, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:13, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:19, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:24, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:29, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:35, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:52, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:27:58, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:29:58, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:30:03, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:30:08, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:30:14, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:30:19, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:30:24, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:30:42, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:30:48, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:30:53, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:30:58, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:04, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:09, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:14, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:20, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:25, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:30, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:35, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:41, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:46, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:31:51, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:31:57, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:34:56, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:35:01, Temperature: 28.00 C, Humidity: 66.00 %
+Time: 2024-06-13 16:35:06, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:12, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:29, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:35, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:40, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:45, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:53, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:35:59, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:36:04, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:36:09, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:36:14, Temperature: 28.00 C, Humidity: 65.00 %
+Time: 2024-06-13 16:36:20, Temperature: 28.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:25, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:30, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:36, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:41, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:46, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:52, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:36:57, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:37:02, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:37:08, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:37:13, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:37:21, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:37:26, Temperature: 29.00 C, Humidity: 64.00 %
+Time: 2024-06-13 16:45:50, Temperature: 26.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:45:55, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:03, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:08, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:14, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:19, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:24, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:30, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:35, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:43, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:48, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:53, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:46:59, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:04, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:09, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:15, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:20, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:25, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:31, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:36, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:41, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:47, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:47:52, Temperature: 26.00 C, Humidity: 71.00 %
+Time: 2024-06-13 16:48:43, Temperature: 24.00 C, Humidity: 67.00 %
+Time: 2024-06-13 16:48:47, Temperature: 24.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:48:52, Temperature: 24.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:48:57, Temperature: 24.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:49:02, Temperature: 24.00 C, Humidity: 68.00 %
+Time: 2024-06-13 16:49:06, Temperature: 24.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:11, Temperature: 24.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:16, Temperature: 24.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:20, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:26, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:31, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:49:36, Temperature: 25.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:49:42, Temperature: 25.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:49:47, Temperature: 25.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:49:52, Temperature: 25.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:49:58, Temperature: 25.00 C, Humidity: 70.00 %
+Time: 2024-06-13 16:54:00, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:05, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:11, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:19, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:24, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:29, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:34, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:40, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:45, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:50, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:54:56, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:55:04, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:55:09, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:55:14, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-13 16:55:19, Temperature: 25.00 C, Humidity: 69.00 %
+Time: 2024-06-14 08:59:26, Time: 2024-06-14 09:00:26, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: N/A Pa, Altitude: N/A m
+Time: 2024-06-14 09:00:31, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98220.0 Pa, Altitude: 262.3 m
+Time: 2024-06-14 09:00:37, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98220.0 Pa, Altitude: 262.3 m
+Time: 2024-06-14 09:00:42, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98220.0 Pa, Altitude: 262.3 m
+Time: 2024-06-14 09:01:10, Temperature: 25.0 C, Humidity: 71.0 %
+Pressure: N/A Pa, Altitude: N/A m
+Time: 2024-06-14 09:01:17, Temperature: 25.0 C, Humidity: 71.0 %
+Pressure: 98217.0 Pa, Altitude: 261.9 m
+Time: 2024-06-14 09:01:23, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98217.0 Pa, Altitude: 261.9 m
+Time: 2024-06-14 09:01:28, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98217.0 Pa, Altitude: 261.9 m
+Time: 2024-06-14 09:01:33, Temperature: 25.0 C, Humidity: 70.0 %
+Pressure: 98217.0 Pa, Altitude: 261.9 m
+Time: 2024-06-14 09:01:39, Temperature: 25.0 C, Humidity: 69.0 %
+Pressure: 98217.0 Pa, Altitude: 261.9 m
+Time: 2024-06-14 09:03:04, 
+Temperature: 25.0 C, Humidity: 72.0 %
+Pressure: N/A Pa, Altitude: N/A m
+Time: 2024-06-14 09:03:09, 
+Temperature: 25.0 C, Humidity: 72.0 %
+Pressure: 98209.0 Pa, Altitude: 263.3 m
+Time: 2024-06-14 09:03:15, 
+Temperature: 25.0 C, Humidity: 72.0 %
+Pressure: 98209.0 Pa, Altitude: 263.3 m
+Time: 2024-06-14 09:03:20, 
+Temperature: 26.0 C, Humidity: 72.0 %
+Pressure: 98209.0 Pa, Altitude: 263.3 m
+Time: 2024-06-14 09:04:20, 
+Temperature: 25.0 C, Humidity: 69.0 %
+Pressure: N/A Pa, Altitude: N/A m
+Time: 2024-06-14 09:04:25, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:04:30, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:04:38, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:04:56, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:01, 
+Temperature: 26.0 C, Humidity: 68.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:07, 
+Temperature: 26.0 C, Humidity: 68.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:12, 
+Temperature: 26.0 C, Humidity: 68.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:17, 
+Temperature: 26.0 C, Humidity: 68.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:23, 
+Temperature: 26.0 C, Humidity: 68.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:28, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
+Time: 2024-06-14 09:05:33, 
+Temperature: 26.0 C, Humidity: 69.0 %
+Pressure: 98202.0 Pa, Altitude: 264.0 m
